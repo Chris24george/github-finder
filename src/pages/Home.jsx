@@ -1,8 +1,12 @@
-
+import UserResults from "../components/users/UserResults";
+import UserSearch from "../components/users/UserSearch";
 
 function Home() {
   return (
-    <h1 className="text-6xl">Home Page Content!</h1>
+    <>
+      <UserSearch />
+      <UserResults />
+    </>
   )
 }
 
