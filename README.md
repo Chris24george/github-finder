@@ -2,7 +2,7 @@
 
 Project I made following along the "react front to back" course on Udemy
 
-##Learned about 
+## Learned about 
 - tailwind css 
 - react router v6 for client-side routing
 - Provider pattern using the context API
